@@ -1,0 +1,22 @@
+# Visual Studio files
+.vs/
+.vscode/
+*.user
+
+# Build results
+bin/
+obj/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+
+# Local user-specific files
+appsettings.Development.json
+
+# IDE
+.idea/
+*.swp
+*.swo
